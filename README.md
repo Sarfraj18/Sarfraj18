@@ -1,23 +1,23 @@
 ## Hi there 👋
 <img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" />
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">🎨 A passionate [Your Role] from [Your Country]</h3>
+<h1 align="center">Hi 👋, I'm [Sarfraj Ansari]</h1>
+<h3 align="center">🎨 A passionate F;utter Developer from India </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&width=435&lines=Code.+Create.+Repeat.;Lifelong+Learner+%E2%9C%A8;Open+Source+Contributor+%F0%9F%92%AA" alt="Typing SVG" />
 </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I+am+Sarfraj;Learning+Flutter+Development;Open+to+Collaboration" />
+
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **[Your Current Project]**
-- 🌱 I’m learning **[New Skill or Tech]**
+- 🔭 I’m currently working on **Flutter**
+- 🌱 I’m learning **New Skill or Tech**
 - 👯 I’m looking to collaborate on **open-source projects**
-- 📝 I regularly write on [Your Blog/Website]
-- 💬 Ask me about **[Techs you’re good at]**
-- 📫 How to reach me: **[Email or Socials]**
-- ⚡ Fun fact: **[Something quirky or interesting about you]**
+- 💬 Ask me about **Flutter And Dart**
+- 📫 How to reach me: **https://www.instagram.com/sarfraj18_?igsh=MTd5bnlhdHB2NHdk**
 
 ---
 
@@ -50,7 +50,7 @@
   <a href="https://twitter.com/yourhandle" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/>
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:sarfrajahmad366@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
 </p>
