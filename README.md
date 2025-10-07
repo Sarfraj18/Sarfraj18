@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&width=435&lines=Code.+Create.+Repeat.;Lifelong+Learner+%E2%9C%A8;Open+Source+Contributor+%F0%9F%92%AA" alt="Typing SVG" />
 </p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I+am+Sarfraj;Learning+Flutter+Development;Open+to+Collaboration" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I+am+Sarfraj;Learning+Flutter+Development;Open+to+Collaboration" /> -->
 
 
 ---
