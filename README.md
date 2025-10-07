@@ -82,7 +82,5 @@
 
 ---
 
-> 💡 Want me to generate the full version for you with your name and details? Just say the word!
 
-Would you like this personalized and ready to paste into your GitHub profile?
 
