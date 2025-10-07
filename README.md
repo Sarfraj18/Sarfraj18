@@ -1,6 +1,6 @@
 ## Hi there 👋
 <img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" />
-<h1 align="center">Hi 👋, I'm [Sarfraj Ansari]</h1>
+<h1 align="center">Hi 👋, I'm Sarfraj Ansari</h1>
 <h3 align="center">🎨 A passionate F;utter Developer from India </h3>
 
 <p align="center">
