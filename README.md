@@ -1,7 +1,7 @@
 ## Hi there 👋
 <img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" />
 <h1 align="center">Hi 👋, I'm Sarfraj Ansari</h1>
-<h3 align="center">🎨 A passionate F;utter Developer from India </h3>
+<h3 align="center">🎨 A passionate Flutter Developer from India </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&width=435&lines=Code.+Create.+Repeat.;Lifelong+Learner+%E2%9C%A8;Open+Source+Contributor+%F0%9F%92%AA" alt="Typing SVG" />
